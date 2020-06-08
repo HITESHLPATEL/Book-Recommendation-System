@@ -133,12 +133,3 @@ Include a PDF copy of your report in the github repository along with your code 
 Any additional software components should be documented with installation instructions.
 
 
-# Checklist
-
-It will be helpful to commit your work in progress to the repository.  Toward this end, we recommend the following loose timeline:
-
-- [ ] 2020/04/16: working local implementation on a subset of the data
-- [ ] 2020/04/23: baseline model implementation 
-- [ ] 2019/04/30: select extension(s)
-- [ ] 2020/05/07: begin write-up
-- [ ] 2019/05/11: final project submission (NO EXTENSIONS PAST THIS DATE)
